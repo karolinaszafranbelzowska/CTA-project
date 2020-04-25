@@ -1,7 +1,8 @@
 # CTA-project
 ### Computational Thinking with Algorithm
 
-This repository contains the Project 2020 for Module 'Computational Thinking with Algorithms' at GMIT.
+This repository contains the Project 2020 for Module **'Computational Thinking with Algorithms'** at GMIT.
+
 Karolina Szafran-Belzowska, 2020-04-25
 
 How to run the Jupyter notebook The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
